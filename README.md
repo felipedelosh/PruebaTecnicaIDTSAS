@@ -19,3 +19,15 @@ sumOnlyPairsInVector(array)
 ![Ejercicio02](Docs/Evidence/ejercicio02.png)
 
 
+
+## Ejercicio 03
+
+
+## Ejercicio 04
+
+Esta escrito en PHP y llama a un archivo .js la función en concreto que es la respuesta del ejercicio es:
+<br>
+ changeColorBG()
+<br>
+![Ejercicio02](Docs/Evidence/ejercicio04.png)
+
