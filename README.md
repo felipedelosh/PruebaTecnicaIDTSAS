@@ -3,7 +3,7 @@
 Esta es mi prueba tecnica para: 
 'Integraciones y desarrollos tecnológicos SAS'
 
-Nota: el enunciado de los problemas esta en: Docs/Prueba de conocimiento en programación.doc
+Nota: el enunciado de los problemas esta en: Docs/Prueba de conocimiento en programación.docx
 
 ### WAMPSERVER (/phpmyadmin>root:noPass) + MySQL
 ### VS code
