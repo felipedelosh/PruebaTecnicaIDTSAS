@@ -81,6 +81,7 @@ El codigo en concreto se encuentra en el archivo: employed.php
 
 
 
-
-
+El codigo en concreto se encuentra en el archivo: javascript.js
+<br>
+![Ejercicio12](Docs/Evidence/ejercicio12.png)
 
