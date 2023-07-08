@@ -12,6 +12,10 @@ Nota: el enunciado de los problemas esta en: Docs/Prueba de conocimiento en prog
 ### JavaScript
 
 
+
+# Primer componente: Básico.Segundo componente: Orientado a objetos
+
+
 ## Ejercicio 01
 
 Está escrito en PHP, por favor instalar wampserver y pasale el numero por url<br>
@@ -61,6 +65,12 @@ Esta escrito en PHP y llama a un archivo .js la respuesta del ejercicio es:
 Esta escrito en PHP
 <br>
 ![Ejercicio05](Docs/Evidence/ejercicio05.png)
+
+
+
+# Segundo componente: Orientado a objetos
+
+# Ejercicio 11
 
 
 

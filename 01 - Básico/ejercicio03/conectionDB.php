@@ -20,7 +20,7 @@ class ConectorDB{
             echo "<p>conectando...</p>";
         }
 
-        $query = $query = "insert into usuarios (nombre, correo, timeStampCreate, timeStampUpdate) values ('".$name."', '".$email."', '".$fecha_actual."', '".$fecha_actual."');";
+        $query = "insert into usuarios (nombre, correo, timeStampCreate, timeStampUpdate) values ('".$name."', '".$email."', '".$fecha_actual."', '".$fecha_actual."');";
         $result = $conn->query($query) === true;
 
         if($result){
