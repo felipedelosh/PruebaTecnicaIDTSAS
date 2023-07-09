@@ -5,6 +5,8 @@ Esta es mi prueba tecnica para:
 
 Nota: el enunciado de los problemas esta en: Docs/Prueba de conocimiento en programación.docx
 
+Advertencia: recuerde antes de probar ejecutar el script para mysql: Docs/script.sql
+
 ### WAMPSERVER (/phpmyadmin>root:noPass) + MySQL
 ### VS code
 ### PHP
@@ -80,8 +82,15 @@ El codigo en concreto se encuentra en el archivo: employed.php
 ## Ejercicio 12
 
 
-
 El codigo en concreto se encuentra en el archivo: javascript.js
 <br>
 ![Ejercicio12](Docs/Evidence/ejercicio12.png)
+
+
+## Ejercicio 13
+El codigo en concreto se encuentra en el archivo: sales.controller.php en la función: getMostProductSale()
+<br>
+![Ejercicio12](Docs/Evidence/ejercicio13.png)
+
+
 
