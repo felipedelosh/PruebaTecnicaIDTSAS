@@ -90,7 +90,13 @@ El codigo en concreto se encuentra en el archivo: javascript.js
 ## Ejercicio 13
 El codigo en concreto se encuentra en el archivo: sales.controller.php en la función: getMostProductSale()
 <br>
-![Ejercicio12](Docs/Evidence/ejercicio13.png)
+![Ejercicio13](Docs/Evidence/ejercicio13.png)
+
+
+## Ejercicio 14
+El codigo en concreto se encuentra en el archivo: js\javascript.js getWeatherInCountry()
+<br>
+![Ejercicio14](Docs/Evidence/ejercicio14.png)
 
 
 
