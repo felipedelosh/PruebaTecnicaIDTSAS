@@ -15,9 +15,11 @@ function validatePassword($pass){
         if(!preg_match(EXPRAZ, $pass)){
             $errors = $errors + 1;
         }
+        if(!preg_match(EXPR09, $pass)){
+            $errors = $errors + 1;
+        }
     }
-
-
+    
     return $errors == 0;
 }
 
