@@ -99,4 +99,12 @@ El codigo en concreto se encuentra en el archivo: js\javascript.js getWeatherInC
 ![Ejercicio14](Docs/Evidence/ejercicio14.png)
 
 
+## Ejercicio 15
+El codigo en concreto se encuentra en el archivo: passwordValidator.php validatePassword()
+
+Nota: "Un programador tenía un problema, y decidió usar expresiones regulares para solucionarlo. Ahora tiene dos problemas"
+<br>
+![Ejercicio14](Docs/Evidence/ejercicio15.png)
+
+
 
