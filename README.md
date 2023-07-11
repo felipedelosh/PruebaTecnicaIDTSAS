@@ -104,7 +104,15 @@ El codigo en concreto se encuentra en el archivo: passwordValidator.php validate
 
 Nota: "Un programador tenía un problema, y decidió usar expresiones regulares para solucionarlo. Ahora tiene dos problemas"
 <br>
-![Ejercicio14](Docs/Evidence/ejercicio15.png)
+![Ejercicio15](Docs/Evidence/ejercicio15.png)
 
+
+
+## Ejercicio 21
+Se utilizó MVC
+![MVC](Docs/Evidence/mvc.png)
+<br>
+
+![Ejercicio21](Docs/Evidence/ejercicio21.png)
 
 
