@@ -32,6 +32,10 @@ class ConectorDB{
 
     }
 
+    /**
+     * Enter a str letter example: $letter = "A"
+     * and return in a order list ["nameEmployed",... "nameEmployed"]
+     */
     function getAllUsersToNameStartInLetter($letter){
         $conn = getDBConect();
         $query = "select * from usuarios where nombre like '".$letter."%' order by nombre ASC;";
