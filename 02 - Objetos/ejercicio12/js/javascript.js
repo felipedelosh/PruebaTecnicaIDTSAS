@@ -1,9 +1,11 @@
-function reverseString(text){
+/**
+ * The Function reverseWords return str with reverse words
+ */
+function reverseWords(text){
     let reverseTXT = "";
     
-
     //tokens
-    let tokens = text.split(" ");
+    let tokens = text.split(" "); //split the words
 
     //reverse
     let countTextSize = tokens.length;
@@ -18,4 +20,4 @@ function reverseString(text){
 }
 
 text = "Hola, cómo estás";
-document.getElementById("output").innerHTML = reverseString(text);
+document.getElementById("output").innerHTML = reverseWords(text);
