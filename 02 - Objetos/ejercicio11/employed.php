@@ -12,6 +12,10 @@ class Empleado{
         $this->puesto=$puesto;
     }
 
+    /**
+     * Calculates a salary of year
+     * return int
+     */
     public function obtenerSalarioAnual(){
         return $this->getSalario()*12;
     }
@@ -42,6 +46,10 @@ class Empleado{
         $this->puesto = $puesto;
     }
 
+    /**
+     * Get a summary of employed
+     * return str
+     */
     public function stringToString(){
         return "Empleado: ".$this->getNombre()." con un sueldo anual de: ".$this->obtenerSalarioAnual();
     }
