@@ -1,5 +1,5 @@
 /**
- * This method read HTML and Stract numbers array
+ * This method get HTML DOOM and Stract numbers array
  */
 function sumVector(){ 
     let textArr = document.getElementById("arrayNumbers").value;   
@@ -34,7 +34,7 @@ function getFormatedArray(data){
 /**
  * 
  * @param {*} array Enter a vector [str#, str#, str#, str#]
- * @returns 
+ * @returns sum of only 2n numbers
  */
 function sumOnlyPairsInVector(array){
     let sum = 0;
