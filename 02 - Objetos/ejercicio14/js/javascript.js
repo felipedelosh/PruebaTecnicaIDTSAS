@@ -5,7 +5,11 @@ const xhr = new XMLHttpRequest();
 const baseURL = 'http://api.openweathermap.org/data/2.5/weather?q=';
 const apiKey = '&APPID=087339b49788d56e2a704ac99bcd7b02';
 
-
+/**
+ * The user type city and country iso code
+ * and API openweathermap responses 
+ * modify DOM to send response 
+ */
 function getWeatherInCountry(){
     let nameCity = document.getElementById("nameCity").value;
     let isoCountry = document.getElementById("isoCodeCountry").value;
@@ -20,7 +24,7 @@ function getWeatherInCountry(){
             let output = "Para la ciudad de: "+json["name"]+"<br>Temperatura:"+json["main"]["temp"]+"<br>Descripción Clima:<br><br>"+json["weather"][0]["description"];
             document.getElementById("response").innerHTML = output;
         }else{
-            document.getElementById("response").innerHTML = "No se pudo hacer"+this.response+"<br>"+finalURL;
+            document.getElementById("response").innerHTML = "Error "+this.response+" <br> ";
         }
     }
 
