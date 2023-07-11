@@ -17,7 +17,7 @@ Advertencia: recuerde antes de probar ejecutar el script para mysql: Docs/script
 
 
 
-# Primer componente: Básico.Segundo componente: Orientado a objetos
+# Primer componente: Básico
 
 
 ## Ejercicio 01
