@@ -7,7 +7,8 @@ Esta es mi prueba tecnica para:
 
 Nota: el enunciado de los problemas esta en: Docs/Prueba de conocimiento en programación.docx
 
-Advertencia: recuerde antes de probar ejecutar el script para mysql: Docs/script.sql
+Advertencia: recuerde antes ejecutar el script para mysql: Docs/script.sql
+Advertencia: recuerde descoprimir ejercicios.zip en la carpeta C:\wamp64\www
 
 ### WAMPSERVER (/phpmyadmin>root:noPass) + MySQL
 ### VS code
@@ -112,6 +113,8 @@ Nota: "Un programador tenía un problema, y decidió usar expresiones regulares 
 
 ## Ejercicio 21
 Se utilizó MVC
+<br>
+<br>
 ![MVC](Docs/Evidence/mvc.png)
 <br>
 
