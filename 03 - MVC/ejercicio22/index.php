@@ -1,0 +1,11 @@
+<?php
+include("view/includes/header.php");
+include("view/includes/banner.php");
+include("view/infoView.php");
+include("view/taskGetByID.php");
+include("view/taskCreateForm.php");
+include("view/taskEditForm.php");
+include("view/taskDeleteForm.php");
+include("view/actions.php");
+include("view/includes/footer.php");
+?>

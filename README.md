@@ -121,3 +121,13 @@ Se utilizó MVC
 ![Ejercicio21](Docs/Evidence/ejercicio21.png)
 
 
+## Ejercicio 22
+Se utilizó MVC
+<br>
+<br>
+![MVC](Docs/Evidence/mvc2.png)
+<br>
+
+![Ejercicio22](Docs/Evidence/ejercicio22.png)
+
+
